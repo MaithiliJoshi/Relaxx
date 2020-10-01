@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Relaxx</string>
+    <string name="title_home">Home</string>
+    <string name="title_favourite">Favourites</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="version">Version</string>
+</resources>
